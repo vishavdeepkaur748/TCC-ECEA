@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Families in Transition</title>
+  <style>
+    body {font-family: Arial, sans-serif; margin: 0; background-color: #f4f6f8;}
+    header {background-color: #4CAF50; color: white; padding: 20px; text-align: center;}
+    nav {background-color: #333; padding: 10px; text-align: center;}
+    nav a {color: white; margin: 0 15px; text-decoration: none; font-weight: bold;}
+    nav a:hover {text-decoration: underline;}
+    .container {padding: 20px;}
+    h2 {color: #4CAF50;}
+    .section {background: white; padding: 20px; margin-bottom: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);} 
+    img {width: 100%; max-width: 500px; display: block; margin: 10px auto; border-radius: 10px;}
+    footer {text-align: center; padding: 10px; background: #333; color: white;}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Families in Transition</h1>
+  <p>Early Childhood Education Assignment</p>
+</header>
+
+<nav>
+  <a href="#ece">ECE in Canada</a>
+  <a href="#families">Family Involvement</a>
+  <a href="#issues">Families in Transition</a>
+</nav>
+
+<div class="container">
+
+  <div class="section" id="ece">
+    <h2>Early Childhood Education in Canada</h2>
+    <img src="https://images.unsplash.com/photo-1588072432836-e10032774350" alt="Children learning">
+    <p>Early Childhood Education (ECE) in Canada focuses on the development of children from birth to age 6. It supports physical, emotional, social, and cognitive growth. Programs include daycare, preschool, and kindergarten.</p>
+    <p>ECE promotes play-based learning, inclusion, and respect for diversity. Educators create safe environments where children can explore and learn.</p>
+  </div>
+
+  <div class="section" id="families">
+    <h2>Ways to Involve Families</h2>
+    <img src="https://images.unsplash.com/photo-1604881991720-f91add269bed" alt="Family involvement">
+    <p>Family involvement is important for children's development. Educators can involve families through:</p>
+    <ul>
+      <li>Regular communication</li>
+      <li>Parent-teacher meetings</li>
+      <li>Inviting parents to activities</li>
+      <li>Sharing cultural traditions</li>
+      <li>Providing resources</li>
+    </ul>
+  </div>
+
+  <div class="section" id="issues">
+    <h2>Issues Facing Families in Transition</h2>
+    <img src="https://images.unsplash.com/photo-1529336953121-a6f0a0f2b9c0" alt="Family stress">
+    <p>Families in transition may face challenges such as divorce, immigration, financial stress, or loss of a family member.</p>
+    <p>These changes can affect children's emotional well-being. Educators can support families by providing stability, understanding, and helpful resources.</p>
+  </div>
+
+</div>
+
+<footer>
+  <p>&copy; 2026 ECE Assignment</p>
+</footer>
+
+</body>
+</html>
